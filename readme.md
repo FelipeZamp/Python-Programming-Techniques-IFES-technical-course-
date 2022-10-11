@@ -1,0 +1,1 @@
+Hi, My name is Felipe Santos Zampirole, and this repository includes projects made in the python language during the programming techniques subject of my technical course at the federal institute of Espírito Santo - IFES, Brazil.
